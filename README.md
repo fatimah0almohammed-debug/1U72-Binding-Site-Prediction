@@ -26,6 +26,6 @@ Files:
 
 Raw PDB structure
 PyMOL session
-Binding-site figures
+Binding-site figure
 DoGSiteScorer results
 Final report
